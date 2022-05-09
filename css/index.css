@@ -1,0 +1,53 @@
+.sidebar > h1 img {
+  padding: 0 1rem;
+}
+
+.sidebar-toggle {
+  padding-top: 15px;
+  backdrop-filter: blur(3px);
+}
+
+.sidebar-toggle span {
+  width: 30px;
+  height: 5px;
+}
+
+section.cover .cover-main {
+  z-index: 0;
+}
+
+.cover-main > h1 {
+  padding-top: 3rem;
+}
+
+.cover-main > h2,
+h3 {
+  color: #fff;
+}
+
+.cover-main > h2 {
+  font-size: 1.8rem;
+  font-family: "Aclonica", sans-serif;
+}
+
+.cover-main > h3 {
+  margin-bottom: 8%;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+}
+
+.cover-main p a {
+  border-width: 0 !important;
+  background: linear-gradient(90deg, #b1d26f 0.05%, #60e7ce 100.16%);
+}
+
+#docsify-darklight-theme {
+  left: initial;
+  right: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    width: 98%;
+  }
+}
