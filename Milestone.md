@@ -5,6 +5,8 @@
 
 10,000 cross-border community spirits collided by Mayan civilization and modern trends, every lucky collector is a Genesis member of Amayan Club.
 
+![Genesis NFT Collection](./assets/images/01.png)
+
 <h4>Club member benefits（continue to increase）</h4>
 
 !> Social groups and parties
@@ -40,6 +42,8 @@ Enjoy the AirDrop plan of Amayan Club Token in the future;
 ## Derivatives
 > NFT Derivatives Tools and Trading Marketplace
 
+![Derivatives Tools & Marketplace](./assets/images/02.png)
+
 Genesis NFT collectors can use the Amayan Club NFT derivative creation tool and trading market for free. The source NFT can not only be freely matched and combined with some derivative scenes (such as trendy clothing, fashion bags, hats, etc.), but also supports NFT blue-chip brands. ([BAYC](//opensea.io/collection/boredapeyachtclub), [CryptoPunks](//opensea.io/collection/cryptopunks), [Meebits](//opensea.io/collection/meebits), [CLONE X](//opensea.io/collection/clonex), [Azuki](//opensea.io/collection/azuki), etc.) and other secondary reproductions, minting coins and creating new DNA NFTs, one-stop sharing and listing to our Multi-Chain (priority support ETH chain, follow-up support BNB chain、SOL chain、Luna chain、Near chain, etc.) trading Marketplace.
 
 In terms of NFT liquidity and commercial realization, we will also help users to implant NFTs into more commercial brands (such as FILA, GUCCI, Prada, Adidas, etc.), and all derivative NFTs can be sold on our trading market or [OpenSea](//opensea.io).
@@ -47,12 +51,16 @@ In terms of NFT liquidity and commercial realization, we will also help users to
 ## Club-Gallery
 > Club Independent IP and NFT Exhibition Gallery
 
+![Club IP & Exhibition Gallery](./assets/images/03.png)
+
 Co-branded fashion artists release community independent IP images, and establish partnerships with apparel brands and art institutions.
 
 Each member of Amayan Club enjoys the rights to re-derivation and creation, minting, and trading of all IP NFTs. At the same time, they will have their own digital exhibition hall (Amayan Gallery) to display their NFT works in multiple dimensions, like traveling to the beautiful Versailles Palace is as wonderful as the Louver.
 
 ## Governance
 > DAO Community and AirDrop Plan
+
+![Governance](./assets/images/04.png)
 
 Amayan DAO Community Treasury and Committee Governance Plan
 
@@ -63,9 +71,13 @@ Amayan Club Token（In fact, we don't have this idea, but we will still open a v
 ## NFT-Finance
 > NFT Liquidity Equity
 
+![NFT-Finance](./assets/images/05.png)
+
 Amayan Game will cooperate with high-quality game project parties in the community to jointly evolve the Game-NFT-Social-Fi model, and help Amayan Club members' NFTs be transplanted into official and partner game scenarios, enabling more space for expression.
 
 ## Metaverse
 > Application of NFT in Metaverse
+
+![Metaverse](./assets/images/06.png)
 
 Connect the physical world and the metaverse space through AR and VR technology, virtualize a set of images and skins for each Amayan Club member, travel through the Mayan castle and outer space in Amayan Space, and get to know more partners,elves and aliens ecosystem.
